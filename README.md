@@ -5,4 +5,4 @@ Gosto de tecnologia, aprender coisas novas,sempre disposto a melhorar e criar al
 <br>**negrito**
 <br>-- tópico 1 --
 <br>-- tópico 2 --
-<br>[!gif](https://tenor.com/pt-BR/view/snip-snap-michael-scott-the-office-gif-15109128)
+![gif](https://tenor.com/pt-BR/view/snip-snap-michael-scott-the-office-gif-15109128)
