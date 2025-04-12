@@ -1,8 +1,8 @@
 ## Me chamo **Pietro** tenho **16 anos**.
 Gosto de tecnologia, aprender coisas novas,sempre disposto a melhorar e criar algo diferente.
 <br>-[FILIPE RET - CORTE AMERICANO](https://www.youtube.com/watch?v=YP0vJSzEJAs)
-_italico_
+<br>_italico_
 <br>**negrito**
 <br>-- tópico 1 --
 <br>-- tópico 2 --
-[!gif](https://media1.tenor.com/m/w2Pu6UMOyCkAAAAd/friday-good-morning-friday.gif)
+[!gif](https://c.tenor.com/w2Pu6UMOyCkAAAAC/tenor.gif)
